@@ -1,0 +1,102 @@
+
+/* top nav */
+
+.top-nav {
+	background: #fff;
+    height: 46px;
+}
+
+.top-nav li a {
+	color:#66757f;
+	text-decoration: none;
+	font-size: 13px;
+    font-weight: 500;
+    padding-right:10px;
+}
+
+.top-nav li {
+	float: left;
+    margin-left: 3px;
+    margin-top: 17px;
+    font-size: 13px;
+    font-weight: 500;
+    color:#66757f;
+}
+
+.twit {
+	color:#55acee;
+	text-align: center;
+	display: block;
+    text-align: center;
+    padding-top:15px;
+}
+
+.links{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	
+}
+
+.right-nav {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	padding-bottom:10px;
+}
+
+.right-nav li {
+	float:right;
+	font-size: 13px;
+    font-weight: 500;
+    color:#66757f;
+}
+
+/*top nav */
+
+ul li {
+	list-style: none;
+	display:inline;
+}
+
+.coverphoto {
+	background-size: 100%;
+	height: 320px;
+	background-repeat: no-repeat;
+	border-top: 1px solid #292f33;
+}
+
+/* profile stat bar */
+
+
+.profile-stat-nav {
+	height: 60px;
+	border: 2px solid green;
+}
+
+.profile-stats ul li{
+	display:inline-block;
+}
+
+.profile-statnum{
+	font-size: 18px;
+    padding-top: 3px;
+    font-weight: 500;
+    color:#009999;   
+}
+
+.profile-title {
+    color: #66757f;
+    font-size: 11px;
+    letter-spacing: .02em;
+    text-transform: uppercase;
+}
+
+.profile-title,
+.profile-stats {
+	display:block;
+}
+
+
+.grid {
+	border: 2px solid black;
+}
+
+
+
